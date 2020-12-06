@@ -1,2 +1,2 @@
-# AI-Assisgnment---Month--1
+# AI-Assisgnment
 Assignments for AI batch
